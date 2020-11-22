@@ -1,1 +1,4 @@
-print(123)
+print("dog")
+print("sdfsd")
+def adsfdsfa():
+    return 0
