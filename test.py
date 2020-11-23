@@ -1,4 +1,4 @@
 print("dog")
 print("sdfsd")
-def adsfdsfa():
-    return 0
+def ooqeirfjl():
+    return 1
